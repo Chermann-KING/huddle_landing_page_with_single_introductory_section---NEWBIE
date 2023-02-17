@@ -52,7 +52,7 @@ body {
   margin-top: 2.6rem;
   padding: 0 2rem;
 }
-.text > h2 {
+.text > h1 {
   font-size: calc(var(--fontSize) * 2.5);
   font-weight: 600;
   line-height: 1.2;
