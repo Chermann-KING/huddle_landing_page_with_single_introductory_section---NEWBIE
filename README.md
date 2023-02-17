@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Huddle landing page with a single introductory section
 
 This is a solution to the [Huddle landing page with a single introductory section](images\huddle-landing-page-with-single-introductory-section-print-screen.png). Frontend Mentor challenges help improve coding skills by completing realistic projects.
 
