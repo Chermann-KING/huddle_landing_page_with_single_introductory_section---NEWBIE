@@ -17,8 +17,8 @@ This is a solution to the [Huddle landing page with a single introductory sectio
 
 ### Links
 
-- Solution URL: https://github.com/Chermann-KING/
-- Live Site URL: https://chermann-king.github.io/
+- Solution URL: https://github.com/Chermann-KING/huddle_landing_page_with_single_introductory_section---NEWBIE
+- Live Site URL: https://chermann-king.github.io/huddle_landing_page_with_single_introductory_section---NEWBIE/
 
 ### Built with
 
