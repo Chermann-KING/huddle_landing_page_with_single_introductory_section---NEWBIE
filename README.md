@@ -4,11 +4,12 @@ This is a solution to the [Huddle landing page with a single introductory sectio
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Frontend Mentor - Huddle landing page with a single introductory section](#frontend-mentor---huddle-landing-page-with-a-single-introductory-section)
+  - [Table of contents](#table-of-contents)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
+  - [Author](#author)
 
 ### Screenshot
 
@@ -16,8 +17,8 @@ This is a solution to the [Huddle landing page with a single introductory sectio
 
 ### Links
 
-- Solution URL: https://github.com/Chermann-KING/qr_code_component---NEWBIE
-- Live Site URL: https://chermann-king.github.io/qr_code_component---NEWBIE
+- Solution URL: https://github.com/Chermann-KING/
+- Live Site URL: https://chermann-king.github.io/
 
 ### Built with
 
